@@ -1,0 +1,8 @@
+.btn_supp{
+    background-color: rgb(41, 131, 169);
+    
+    margin-left: 150px;
+}
+.btn_supp:hover{
+    background-color: red;
+}
